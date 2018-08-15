@@ -1,0 +1,5 @@
+command[check_load]=/usr/lib64/nagios/plugins/check_load -r -w .15,.10,.05 -c .30,.25,.20
+
+
+command[check_load]=/usr/lib64/nagios/plugins/check_load -r -w .50,.45,.40 -c .80,.75,.70
+
